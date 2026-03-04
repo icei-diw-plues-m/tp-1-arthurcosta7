@@ -7,8 +7,8 @@ Coloque aqui os seus dados
 - Matricula: 910341
 
 ## Tela de inspeção com navegador
-(images/fdesenvolvedor.png)
-
+![Print inspeção](images/fdesenvolvedor.png)
+![Print site](images/site.png)
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
 
